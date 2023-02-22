@@ -2,19 +2,23 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+What is the problem? And where is the challenge?
 
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+How to install your project? npm install? make? make re?
+
 
 ## Usage
-TODO - How does it work?
+How does it work?
 ```
 ./my_project argument1 argument2
 ```
+## Vocab
+casts
+void points
 
 ### The Core Team
 
